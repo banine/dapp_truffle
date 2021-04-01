@@ -6,3 +6,9 @@ contract banineHelloWorld {
         return("Welcome to my Smart Contract");
     }
 }
+
+contract banineTest{
+    function myTest(){
+        
+    }
+}
